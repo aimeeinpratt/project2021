@@ -1,5 +1,7 @@
 # Project2021
-![2](https://user-images.githubusercontent.com/61167738/146719106-58c0bb19-c353-4912-b874-dca52ab4849f.png)
+![image](https://user-images.githubusercontent.com/61167738/146719315-29cce205-9bc0-4c6c-a0e4-3f985bfc250d.png)
+
+
 Final Project-program cultural heritage
 Looking at the contemporary art collections in the Met and Whitney Museum of Art, our project uses data visualization to analyze the relationships between their collections’ key variables: year, artwork, donor, and artist. Both datasets had more than 15 fields and over 20,000 rows that lessened to 15,000 after data cleaning. The datasets can be found here:
 The Met: https://github.com/metmuseum/openaccess 
