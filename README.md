@@ -30,3 +30,8 @@ My Process:
     Artist vs Donor (MET)
     Unique Artist, Unique Display Year, Donor(MET) with Unique ID (node)
     Source and Target sheet between “Artist and Museum”, and “Artist and Display year”(Edge)
+    
+    
+Our presentation file: 
+https://docs.google.com/presentation/d/1vKSjCBMd_2uC6CouukWpkOzGGyD-nKRNg-IuRpKebaQ/edit?usp=sharing
+
