@@ -1,4 +1,4 @@
-# project2021 with Tenny
+# Project2021
 Final Project-program cultural heritage
 Looking at the contemporary art collections in the Met and Whitney Museum of Art, our project uses data visualization to analyze the relationships between their collections’ key variables: year, artwork, donor, and artist. Both datasets had more than 15 fields and over 20,000 rows that lessened to 15,000 after data cleaning. The datasets can be found here:
 The Met: https://github.com/metmuseum/openaccess 
@@ -10,7 +10,7 @@ Whitney Museum of Art: https://github.com/whitneymuseum/open-access
 15,000 rows
 
 
-Our analysis was broken into two parts, using similar data cleaning processes in Python, yet different data visualization tools to narrate these relationships’ trends. Python was used for data cleaning, in which we went through a few rounds of data cleaning to isolate the right data needed to maneuver and identify the variables. Our data cleaning required:
+The analysis was broken into two parts, using similar data cleaning processes in Python, yet different data visualization tools to narrate these relationships’ trends. Python was used for data cleaning, in which we went through a few rounds of data cleaning to isolate the right data needed to maneuver and identify the variables. Our data cleaning required:
 Isolating the initial display year for each artwork
 Filtering through the credit line for the donor names
 Using Vlookup to configure nodes and edges within the edited dataset from Python
